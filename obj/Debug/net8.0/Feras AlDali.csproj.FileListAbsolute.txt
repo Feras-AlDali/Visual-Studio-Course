@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\Feras AlDali.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\Feras AlDali.exe
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\Feras AlDali.deps.json
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\Feras AlDali.runtimeconfig.json
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\Feras AlDali.dll
+C:\Visual Studio AOL\1\Feras AlDali\bin\Debug\net8.0\Feras AlDali.pdb
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets\msbuild.Feras AlDali.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets\msbuild.build.Feras AlDali.props
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Feras AlDali.props
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Feras AlDali.props
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\scopedcss\bundle\Feras AlDali.styles.css
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\scopedcss\projectbundle\Feras AlDali.bundle.scp.css
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.dll
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\refint\Feras AlDali.dll
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.pdb
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\Feras AlDali.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Feras AlDali\obj\Debug\net8.0\ref\Feras AlDali.dll

@@ -1,0 +1,70 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Fav Song";
+}
+
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+    background-color: #1e1e2f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.video-container {
+    margin-top: 20px;
+}
+
+#animated-box {
+    width: 200px;
+    height: 50px;
+    font-size: 2rem;
+    position: relative;
+    margin: 50px auto;
+    animation: float 2s ease-in-out infinite;
+}
+
+@@keyframes float {
+    0%   { top: 0; }
+    50%  { top: -20px; }
+    100% { top: 0; }
+}
+
+    </style>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+
+</head>
+<body>
+    <div class="video-container">
+        <h1>Enjoy My Favorite Song!</h1>
+        <iframe width="914" height="514" src="https://www.youtube.com/embed/9bZkp7q19f0?list=RD9bZkp7q19f0" title="PSY - GANGNAM STYLE(강남스타일) M/V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div id="animated-box">
+        <div>Hover Me!</div>
+        🎵
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const box = document.getElementById("animated-box");
+
+            // Add hover animation effect
+            box.addEventListener("mouseover", () => {
+                box.style.transition = "transform 0.3s";
+                box.style.transform = "scale(1.5)";
+            });
+
+            box.addEventListener("mouseout", () => {
+                box.style.transform = "scale(1)";
+            });
+        });
+
+    </script>
+</body>
+</html>

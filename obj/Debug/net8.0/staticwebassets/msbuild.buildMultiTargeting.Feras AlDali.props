@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Feras AlDali.props" />
+</Project>
